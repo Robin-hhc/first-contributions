@@ -231,6 +231,7 @@ v0idborne
 - Jay B - bodenmethod
 - [darksoul96](https://github.com/darksoul96)
 - Noah Koebe
+- Hancheng Huang
 - Kshitij Ijari
 - S Prathima Singh
 - Gandra Rithvik Rao👍
